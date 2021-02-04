@@ -34,6 +34,8 @@
 | npm start                                                                           | Run project.                                                            |
 | npm install [name of package]                                                       |                                                                         |
 | npm install --save [name of package]                                                |                                                                         |
+| npm install -g @angular/cli                                                         |                                                                         |
+| npm i @angular-devkit/build-angular                                                 |                                                                         |
 |                                                                                     |                                                                         |
 
 
